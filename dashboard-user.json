@@ -38,7 +38,7 @@
   {
     "userid": "test1234",
     "status": "Active",
-    "remaining": "31d 23h 0m 30s",
+    "remaining": "31d 23h 0m 0s",
     "expiry": "2025-08-13T16:16:35.500Z"
   }
 ]
