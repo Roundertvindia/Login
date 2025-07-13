@@ -30,5 +30,13 @@
     "username": "nitin",
     "deviceId": "93a24d6e-d478-4734-88f8-f3a7dc39435c",
     "Activation": "Yes"
+  },
+  {
+    "serial": 5,
+    "date": "13/7/2025",
+    "time": "10:19 am",
+    "username": "hello",
+    "deviceId": "93a24d6e-d478-4734-88f8-f3a7dc39435c",
+    "Activation": "No"
   }
 ]
