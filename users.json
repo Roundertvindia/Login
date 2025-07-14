@@ -118,5 +118,13 @@
     "username": "vined",
     "deviceId": "740f0c32-c937-4fdb-8c51-d3167baf1436",
     "Activation": "No"
+  },
+  {
+    "serial": 16,
+    "date": "14/7/2025",
+    "time": "5:40 pm",
+    "username": "bahubali",
+    "deviceId": "93a24d6e-d478-4734-88f8-f3a7dc39435c",
+    "Activation": "No"
   }
 ]
