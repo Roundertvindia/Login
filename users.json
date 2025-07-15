@@ -166,5 +166,13 @@
     "username": "manmohan",
     "deviceId": "16b53100-c300-4f04-a0b5-4f3d10decdc0",
     "Activation": "Yes"
+  },
+  {
+    "serial": 22,
+    "date": "15/7/2025",
+    "time": "12:38 pm",
+    "username": "jio123",
+    "deviceId": "16b53100-c300-4f04-a0b5-4f3d10decdc0",
+    "Activation": "No"
   }
 ]
