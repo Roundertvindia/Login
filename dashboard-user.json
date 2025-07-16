@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "userid": "naman",
+    "numericId": "001",
+    "status": "Active",
+    "remaining": "7d 0h 0m 0s",
+    "expiry": "2025-07-23T13:03:27.155Z"
+  }
+]
