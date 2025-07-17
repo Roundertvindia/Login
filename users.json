@@ -6,5 +6,13 @@
     "username": "mukul",
     "deviceId": "93a24d6e-d478-4734-88f8-f3a7dc39435c",
     "Activation": "Yes"
+  },
+  {
+    "serial": 2,
+    "date": "17/7/2025",
+    "time": "8:00 pm",
+    "username": "alok",
+    "deviceId": "459e6ff2-7dd8-4c36-89f6-3a0e122dae24",
+    "Activation": "No"
   }
 ]
