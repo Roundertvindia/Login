@@ -37,8 +37,8 @@
   {
     "userid": "nitin",
     "numericId": "006",
-    "status": "Active",
-    "remaining": "7d 23h 50m 0s",
+    "status": "Expired",
+    "remaining": "0d 0h 0m 0s",
     "expiry": "2025-07-16T11:44:25.055Z"
   }
 ]
