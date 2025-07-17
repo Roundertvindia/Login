@@ -16,8 +16,8 @@
   {
     "userid": "user123",
     "numericId": "003",
-    "status": "Expired",
-    "remaining": "0d 0h 0m 0s",
-    "expiry": "2025-07-16T09:35:07.352Z"
+    "status": "Active",
+    "remaining": "7d 0h 0m 0s",
+    "expiry": "2025-07-24T09:38:13.003Z"
   }
 ]
