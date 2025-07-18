@@ -110,5 +110,13 @@
     "username": "nj123456@",
     "deviceId": "81a28c78-7051-4af3-b594-b2348d504767",
     "Activation": "Yes"
+  },
+  {
+    "serial": 24,
+    "date": "18/7/2025",
+    "time": "3:06 pm",
+    "username": "naman",
+    "deviceId": "3a6531a4-0eb7-4580-af48-bd79b4457ac1",
+    "Activation": "No"
   }
 ]
