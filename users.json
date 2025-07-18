@@ -262,5 +262,13 @@
     "username": "gauravtundwal@gmail.com",
     "deviceId": "2aed510f-b1d3-4bab-8955-792f90f33038",
     "Activation": "Yes"
+  },
+  {
+    "serial": 44,
+    "date": "18/7/2025",
+    "time": "8:47 pm",
+    "username": "gauravkumar",
+    "deviceId": "2aed510f-b1d3-4bab-8955-792f90f33038",
+    "Activation": "No"
   }
 ]
