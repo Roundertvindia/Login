@@ -142,5 +142,13 @@
     "username": "rudra",
     "deviceId": "fe5001b5-ba8c-402b-b43f-33d1d3968a6b",
     "Activation": "No"
+  },
+  {
+    "serial": 28,
+    "date": "18/7/2025",
+    "time": "4:00 pm",
+    "username": "jackrose",
+    "deviceId": "1ea92371-20cb-427b-bc90-0e3c229a72a9",
+    "Activation": "No"
   }
 ]
