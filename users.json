@@ -126,5 +126,13 @@
     "username": "@234nikitajain",
     "deviceId": "81a28c78-7051-4af3-b594-b2348d504767",
     "Activation": "Yes"
+  },
+  {
+    "serial": 26,
+    "date": "18/7/2025",
+    "time": "3:47 pm",
+    "username": "bindassrohit01234",
+    "deviceId": "11ef875f-797a-4232-8b0a-10ce1cd82886",
+    "Activation": "No"
   }
 ]
