@@ -286,5 +286,13 @@
     "username": "user321",
     "deviceId": "403d58e4-8cb1-4f4e-be3b-acfafdc2c576",
     "Activation": "No"
+  },
+  {
+    "serial": 47,
+    "date": "18/7/2025",
+    "time": "10:17 pm",
+    "username": "kapish",
+    "deviceId": "3b399466-9d24-4730-8129-6da01a09ea8a",
+    "Activation": "No"
   }
 ]
